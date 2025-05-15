@@ -1,0 +1,9 @@
+langchain>=0.1.0
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+PyPDF2            # for PDF files
+unstructured      # for advanced loaders
