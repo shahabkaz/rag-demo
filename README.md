@@ -23,3 +23,11 @@ This repository contains a demo implementation of a **Retrieval-Augmented Genera
    ```bash
    git clone https://github.com/shahabkaz/rag-demo.git
    cd rag-demo
+   ```
+
+## 📋 Sample Output
+
+After running the script, you will get:
+
+Q: What is this document about?
+A:  This document provides context about LangChain, a framework used for developing applications that utilize language models.
